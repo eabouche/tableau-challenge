@@ -9,4 +9,8 @@ For analysis and exploration of the NYC Citi Bike Tableau visualization please v
 
 ![image](https://user-images.githubusercontent.com/115383317/226077367-cdc59b50-9cc3-48dc-b91a-1bcaca96c2ba.png)
 
+![image](https://user-images.githubusercontent.com/115383317/226077410-d5308644-48e6-42e4-8ec3-343e75a5a4b4.png)
+
+![image](https://user-images.githubusercontent.com/115383317/226077435-befe892c-4670-4022-bef9-bc61b99060d6.png)
+
 

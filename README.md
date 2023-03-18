@@ -7,4 +7,6 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 For analysis and exploration of the NYC Citi Bike Tableau visualization please visit this link: <a href="https://eabouche.github.io/tableau-challenge/" target="_blank">NYC Citi Bike Overview</a>
 
 
+![image](https://user-images.githubusercontent.com/115383317/226077367-cdc59b50-9cc3-48dc-b91a-1bcaca96c2ba.png)
+
 

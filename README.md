@@ -4,7 +4,7 @@ This project consisted on working with the <a href="https://en.wikipedia.org/wik
 
 Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the <a href="https://citibikenyc.com/system-data" target="_blank">Citi Bike Data</a> webpage.
 
-For analysis and exploration of the NYC Citi Bike Tableau visualization please visit this link: <a href="https://eabouche.github.io/tableau-challenge/" target="_blank">NYC Citi Bike Overview</a>
+<strong> For analysis and exploration of the NYC Citi Bike Tableau visualization please visit this link: <a href="https://eabouche.github.io/tableau-challenge/" target="_blank">NYC Citi Bike Overview</a> </strong>
 
 ### Written analysis - trends discovered in the data:
 - Discrepancies: When using the interactive map and clicking on a specific dot representing a station, sometimes the count of rides for a particular station will not match the overall count of rides for that station displayed in the bar charts.  This is because sometimes the latitude and longitude are slightly different for the same station name. Therefore, 2 dots in the map next to eachother may represent the same station name with different counts. If wanting to know the total number of rides per station, rely on the bar chart totals.
